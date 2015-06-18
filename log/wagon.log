@@ -246,3 +246,27 @@ Found page "Home" [index]
 [0;32;49mCompleted 200 OK in 7.8ms
 
 [0m
+[0;97;49mStarted GET "/" at 2015-06-18 12:10:22 +0545[0m
+Detecting locale EN
+Found page "Home" [index]
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 2170.3ms
+
+[0m
+* Reloaded "pages", "snippets" at 2015-06-18 20:45:31 +0545
+* Reloaded "pages", "snippets" at 2015-06-18 20:45:49 +0545
+* Reloaded "pages", "snippets" at 2015-06-18 20:47:34 +0545
+* Reloaded "pages", "snippets" at 2015-06-18 20:47:57 +0545
+* Reloaded "pages", "snippets" at 2015-06-18 20:47:58 +0545
+* Reloaded "pages", "snippets" at 2015-06-18 20:48:37 +0545
+[0;97;49mStarted GET "/admin" at 2015-06-18 20:51:43 +0545[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 133.8ms
+
+[0m
+[0;97;49mStarted GET "/admin/" at 2015-06-18 20:51:51 +0545[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 58.7ms
+
+[0m
+* Reloaded "pages", "snippets" at 2015-06-18 20:55:01 +0545
